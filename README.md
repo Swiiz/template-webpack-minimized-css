@@ -1,4 +1,4 @@
-# svelte app
+# svelte app (webpack minified css)
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at Swiiz/template-webpack-minimized-css.
 
